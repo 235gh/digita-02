@@ -749,7 +749,7 @@ p{
     color: #02a3ed !important;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width:768px) {
  .main-section{
     text-align: center;
     padding-top: 25px;
