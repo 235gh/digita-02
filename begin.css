@@ -3,10 +3,10 @@
     padding: 0;
     box-sizing: border-box;
     cursor: pointer;
+    overflow-x: hidden;
 }
 header{
     background-color: #fafafa;
-    overflow-x: hidden;
     padding: 20px;
     width: 100vw;
     position:fixed; 
